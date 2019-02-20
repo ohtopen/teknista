@@ -13,7 +13,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
         </header>
         <body className="App-body">
-        <p>The KY committee for all your ATK needs :D</p>
+        <p>The KY project team for all your ATK needs :D</p>
         </body>
       </div>
     );
